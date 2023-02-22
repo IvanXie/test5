@@ -6,9 +6,9 @@
 int main() {
   std::cout << "hello world" << std::endl;
   std::cout << "hello world" << std::endl;
-  int a;
-	 
+  int a = 0;
 
-  int b;
+
+  int b = 1;
   return 0;
 }
